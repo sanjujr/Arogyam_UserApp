@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Engineering\\firebase\\build\\geolocator\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\jishn\\.gradle\\caches\\transforms-2\\files-2.1\\3df5e429a6d9d08339d98018b5b2de1e\\core-1.2.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Engineering\\firebase\\build\\geolocator\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\jishn\\.gradle\\caches\\transforms-2\\files-2.1\\3df5e429a6d9d08339d98018b5b2de1e\\core-1.2.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Engineering\\firebase\\build\\geolocator\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\jishn\\.gradle\\caches\\transforms-2\\files-2.1\\3df5e429a6d9d08339d98018b5b2de1e\\core-1.2.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Engineering\\firebase\\build\\geolocator\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\jishn\\.gradle\\caches\\transforms-2\\files-2.1\\3df5e429a6d9d08339d98018b5b2de1e\\core-1.2.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
